@@ -2,7 +2,7 @@
 
 * Home
     * [Author](./README.md)
-    * [使用方法](./TUTORIAL.md)
+    * [使用方法](./tutorial.md)
 * Slide
     * [C++ 判斷式 if-else](./slide/if_else.md)
     * [C++ 模板 template](./slide/template.md)
