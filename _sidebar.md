@@ -4,9 +4,11 @@
     * [Author](README.md)
     * [使用方法](tutorial.md)
 * Slide
-    * [C++ if-else](slide/if_else.md)
-    * [C++ template](slide/template.md)
-    * [C++ class](slide/class.md)
+    * [C++ 判斷式 if-else](slide/if_else.md)
+    * [C++ 模板 template](slide/template.md)
+    * [C++ 類別 class](slide/class.md)
+    * [C++ 變數生命週期與修飾子](slide/var_and_modifier.md)
+    * [C++ 動態陣列 vector](slide/vector.md)
 * Exercise
     * [0304 Week1](slide_code/w1.md)
     * [0311 Week2](slide_code/w2.md)
