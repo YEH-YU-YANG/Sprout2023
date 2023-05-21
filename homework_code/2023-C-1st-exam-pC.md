@@ -1,8 +1,9 @@
 
 # 階段考第3題
 
-## 題目連結
-https://neoj.sprout.tw/problem/594/
+## [題目連結](https://neoj.sprout.tw/problem/594/)
+
+---
 
 ## 出題者給大家的話
 純粹的實作題目 **，** 無論是手刻 strcat、strcpy 或利用 C/C++ library中寫好的函式都可以解出來 **!** 
