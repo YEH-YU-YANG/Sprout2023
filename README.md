@@ -1,9 +1,10 @@
-<font size="5">**Author**</font>
-> Website for Sprout 2023 C++ tutorial . <br>
-> Made by YYYeh from NTHU ( National Tsing Hua University )
+# 2023 Sprout-C Code
 
-<font size="5">**Contact Me**</font>
+## Author
+```YYYeh``` from NTHU (National Tsibg Hua University)
+> Lecturer for Sprout 2022 C/C++ class 
+> Lecturer for Sprout 2023 C/C++ class
 
-<font size="4"> 1. Gmail brian5504331@gmail.com</font> <br>
-<font size="4"> 2. Github https://github.com/YEH-YU-YANG</font> <br>
-<font size="4"> 3. Discord https://discordapp.com/users/735434585743032381 <br>
+## Objective
+This project aims to showcase AC (Accepted) code on neoj. 
+Additionally, students are allowed to refer to these code samples for learning purposes.

@@ -11,3 +11,7 @@
 
 [**Github**](https://github.com/YEH-YU-YANG/taiwan-csie-sprout-2023.github.io)
 [**前往閱讀 !**](/README.md)
+
+<!-- 背景图片 -->
+
+<!-- 背景色 -->
