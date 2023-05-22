@@ -2,7 +2,7 @@
 
 ## Author
 ```YYYeh``` from NTHU (National Tsibg Hua University)
-> Lecturer for Sprout 2022 C/C++ class 
+> Lecturer for Sprout 2022 C/C++ class <>
 > Lecturer for Sprout 2023 C/C++ class
 
 ## Objective
