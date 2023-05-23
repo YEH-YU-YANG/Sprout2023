@@ -1,6 +1,10 @@
 # Operator overloading
 
-**overload** 代表重新定義該符號的功能。
+```
+You can redefine or overload most of the built-in operators available in C++. 
+Thus, a programmer can use operators with user-defined types as well.
+```
+可以重新定義或重載 C++ 中的大部分內建運算符。程式設計師可以使用自定義類型的運算符。
 
 ## [影片](https://youtu.be/fIEkpbGiOLI)
 
