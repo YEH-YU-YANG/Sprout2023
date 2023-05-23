@@ -9,6 +9,7 @@
     * [C++ 類別 class](slide/class.md)
     * [C++ 變數生命週期與修飾子](slide/var_and_modifier.md)
     * [C++ 動態陣列 vector](slide/vector.md)
+    * [C++ Operator overloading](slide/operator_overloading.md)
 * Exercise
     * [0304 Week1](exercise/w1.md)
     * [0311 Week2](exercise/w2.md)
