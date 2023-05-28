@@ -26,6 +26,7 @@
 <br>
 
 <font size="5">Update Log</font>
-
-* 2023-05-24 2:33 A.M. - 新增Operator overloading的影片 
-* 2023-05-24 1:10 A.M. - 新增Operator overloading的講義 
+* 2023-05-28 9:03 A.M. - 新增 Week12 Hw 的 AC code
+* 2023-05-27 0:01 A.M. - 新增 Week12 Hw 的講義 
+* 2023-05-24 2:33 A.M. - 新增 Operator overloading 的影片 
+* 2023-05-24 1:10 A.M. - 新增 Operator overloading 的講義 
