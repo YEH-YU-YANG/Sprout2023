@@ -19,6 +19,7 @@
     * [0422 Week8](exercise/w8.md)
     * [0513 Week11](exercise/w11.md)
     * [0520 Week12](exercise/w12.md)
+    * [0527 Week13](exercise/w13.md)
 * Homework
     * [0304 Week1](homework/w1.md)
     * [0311 Week2](homework/w2.md)
@@ -29,5 +30,7 @@
     * [階段考第3題](homework/2023-C-1st-exam-pC.md)
     * [0513 Week11](homework/w11.md)
     * [0520 Week12](homework/w12.md)
+    * [0527 Week13](homework/w13.md)
+
 
         
