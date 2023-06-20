@@ -26,6 +26,7 @@
 <br>
 
 <font size="5">Update Log</font>
+* 2023-06-20 1:12 P.M. - 新增 Week14 Exercise AC code , Week14、15 Hw AC code
 * 2023-06-05 8:20 P.M. - 新增 Week13 Exercise、Hw 的 AC code
 * 2023-05-28 9:03 A.M. - 新增 Week12 Hw 的 AC code
 * 2023-05-27 0:01 A.M. - 新增 Week12 Hw 的講義 
