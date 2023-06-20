@@ -20,6 +20,7 @@
     * [0513 Week11](exercise/w11.md)
     * [0520 Week12](exercise/w12.md)
     * [0527 Week13](exercise/w13.md)
+    * [0603 Week14](exercise/w14.md)
 * Homework
     * [0304 Week1](homework/w1.md)
     * [0311 Week2](homework/w2.md)
